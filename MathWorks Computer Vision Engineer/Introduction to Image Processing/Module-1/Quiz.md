@@ -5,7 +5,7 @@
 **Which of the following images has the highest average intensity values?**
 
 **Solution**:  
-*Option A (The Darker Image)*
+*Option B (The Brighter Image)*
 
 ---
 
