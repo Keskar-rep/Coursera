@@ -5,8 +5,8 @@ The function `processPuzzle` was given to you in the previous reading. Use it to
 
 **What is the number of true (nonzero) pixels in the BW mask produced by this function?**
 
-**Solution:**
-104814  
+**Solution :**  
+*104814*
 
 ---
 
@@ -16,9 +16,9 @@ Use the Image Batch Processor App to apply the `processPuzzle` function to all 5
 Below are listed four images that we have chosen to be a representative sample of the entire collection. Visually inspect the images and their resulting BW masks in the app. 
 
 **Which ones are fairly accurately segmented using the `processPuzzle` function?**  
-Check all that apply.
 
-**Solution:**
+**Solution :**
+
 `Puzzle_13.jpg`
 
 
@@ -26,13 +26,13 @@ Check all that apply.
 
 ## Question 3
 In the previous question, the `processPuzzle` function didn't accurately separate puzzle pieces in some images. Now, you need to improve the function by adjusting the Sensitivity parameter (initially set to 0.60 on line 19).
+
 Use the Image Batch Processor App to test different sensitivity values until you find one that accurately separates the puzzle pieces from the images in the previous question. That sensitivity value should be relatively close to 0.6.
 
 **What is the best Sensitivity value for accurate separation?**
 
-**Solution** 
+**Solution :**  
 *0.57*
-
 
 ---
 
@@ -45,7 +45,7 @@ Analyze your results to answer the following two questions:
 
 **What is the total number of true regions in all 50 images?**
 
-**Solution :**
+**Solution :**  
 *628*
 
 ---
@@ -53,5 +53,5 @@ Analyze your results to answer the following two questions:
 ## Question 5
 **What is the average size of a true region across all 50 images, measured in pixels?**
 
-**Solution :**
+**Solution :**  
 *15754.23*
